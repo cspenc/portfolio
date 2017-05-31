@@ -9,3 +9,12 @@ body {
   border-radius: 50%;
   height: 150px;
 }
+
+.name {
+  padding-top: 25px;
+  line-height: 25px;
+}
+
+.description {
+  line-height: 15px;
+}
