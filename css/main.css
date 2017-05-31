@@ -18,3 +18,7 @@ body {
 .description {
   line-height: 15px;
 }
+
+.upcase {
+  text-transform: uppercase;
+}
