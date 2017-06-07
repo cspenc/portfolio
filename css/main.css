@@ -22,3 +22,7 @@ body {
 .upcase {
   text-transform: uppercase;
 }
+
+h6.te-desc {
+  line-height: 20px;
+}
